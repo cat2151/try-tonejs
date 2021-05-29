@@ -1,8 +1,7 @@
 # try-tonejs
 Tone.jsを試しに使ってみる
 
-# demo
-https://cat2151.github.io/try-tonejs/dist/index.html
+# [Demo](https://cat2151.github.io/try-tonejs/dist/index.html)
 
 # ゴール
 [Tone.js公式](https://tonejs.github.io/)の最初のコードを鳴らす
