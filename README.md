@@ -1,7 +1,10 @@
 # try-tonejs
 Tone.jsを試しに使ってみる
 
-## ゴール
+# demo
+https://cat2151.github.io/try-tonejs/dist/index.html
+
+# ゴール
 [Tone.js公式](https://tonejs.github.io/)の最初のコードを鳴らす
 
 # Tone.jsをinstallしてブラウザで音が鳴るまでの作業手順
@@ -32,6 +35,8 @@ npm run dev
 playボタンを押して音が鳴ることを確認する
 src/index.jsを編集し、鳴る音を変更する
 自動でブラウザが更新され、playボタンを押すと鳴る音が変わっていることを確認する
+npm run build
+dist/main.js が生成されていることを確認する
 ```
 
 # 参考
