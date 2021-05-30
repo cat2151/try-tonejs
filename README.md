@@ -1,12 +1,18 @@
 # try-tonejs
 Tone.jsを試しに使ってみる
 
-# [Demo](https://cat2151.github.io/try-tonejs/dist/index.html)
+# 手軽に鳴らす場合
+[Demo Runstant](http://runstant.com/cat2151/projects/42fc9587)
+- 詳しくは [qiita](https://qiita.com/cat2151/items/d6c2bf0dd3e5f441ad69) を参照ください 
 
-# ゴール
+# ある程度大規模なアプリケーションを開発するためにnpmとwebpackを使う場合
+
+## [Demo](https://cat2151.github.io/try-tonejs/dist/index.html)
+
+## ゴール
 [Tone.js公式](https://tonejs.github.io/)の最初のコードを鳴らす
 
-# Tone.jsをinstallしてブラウザで音が鳴るまでの作業手順
+## Tone.jsをinstallしてブラウザで音が鳴るまでの作業手順
 ```
 GitHubに空のリポジトリを作成し、ローカルにcloneする
 ```
@@ -38,7 +44,7 @@ npm run build
 dist/main.js が生成されていることを確認する
 ```
 
-# 参考
+## 参考
 [JavaScriptによるオーディオプログラミング例](https://qiita.com/aike@github/items/2851b94b516cf75a5350) 音を鳴らすコードを書く際、参考にしました。
 
 [webpackをかんたんに使う（Zero Configulation）](https://qiita.com/hashrock/items/3f1df615e68ee8aad9e8) webpackのinstallをする際、参考にしました。
